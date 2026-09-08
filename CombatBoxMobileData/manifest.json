@@ -5,9 +5,9 @@
   "sourceBranch": "main",
   "source": {
     "timelinePath": "ArtSource/FighterMotion/CombatAnimationTimeline_v2.json",
-    "timelineSha256": "c518a2da0dae4622895b339c9bff06b7b6906c10350b5d62f59384507bbf197b",
+    "timelineSha256": "a3e9246dc3c01bf7901205d3282567b7c2914407c7f51888268d8fd49105ec1f",
     "authoringManifestPath": "ArtSource/FighterMotion/AnimationAuthoringManifest.json",
-    "authoringManifestSha256": "8c734c2d8202ad925f03a15dfb54d1f4d9cce4941dfb819459f64dfdea77b17f",
+    "authoringManifestSha256": "e154c0a79bf6a6de823441966d8c3f40177103e89784f04b5d5b56525eb951c2",
     "tuningPath": "ArtSource/FighterMotion/CombatBoxTuning.v1.json",
     "tuningSha256": "ec8ab46c87e09bf0bb2e62b5df507f616b81464a7e4cce1d5a601acd254a2ecb"
   },
@@ -386299,5 +386299,5 @@
       ]
     }
   ],
-  "dataRevision": "015ef4bf68a282107d64dd4f525c599d8b4953960f7f4c460253ba87394ba69a"
+  "dataRevision": "41674ded3c7a704d65afe33771844a3be0ae5f0a93e4f3a09e989ebbaf96d6ab"
 }
