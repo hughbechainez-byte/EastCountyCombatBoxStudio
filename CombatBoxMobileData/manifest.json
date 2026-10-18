@@ -5,9 +5,9 @@
   "sourceBranch": "main",
   "source": {
     "timelinePath": "ArtSource/FighterMotion/CombatAnimationTimeline_v2.json",
-    "timelineSha256": "0310f10002b992d649eb88a37761b325fee2721d405ca6e785b573a34855fa7b",
+    "timelineSha256": "63abfde17e53e10a79b41a459fb38553b0a5df63ce482f06c3b968a349a6177f",
     "authoringManifestPath": "ArtSource/FighterMotion/AnimationAuthoringManifest.json",
-    "authoringManifestSha256": "2dde812dc9ffec8e6db0b0fd3b650ce7d0f7366a14ed326476757c15c51ad77a",
+    "authoringManifestSha256": "c3ca15944ec58b40ac6e00e8b4bcfe7d71fe0ef12b1d76c4cdde97de3781b82b",
     "tuningPath": "ArtSource/FighterMotion/CombatBoxTuning.v1.json",
     "tuningSha256": "c5b77df563c91a2214802f3d17b1512ca07f5e2f36c1e9d7ee68160f8b71186b"
   },
@@ -297059,7 +297059,7 @@
           371
         ],
         "groundSourceY": 371,
-        "pixelsPerUnit": 100.0,
+        "pixelsPerUnit": 65.0,
         "sourceFacing": "facing-positive-x"
       },
       "damageReceive": {
@@ -297086,9 +297086,9 @@
               "startTick": 0,
               "holdTicks": 1,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -297102,9 +297102,9 @@
               "startTick": 1,
               "holdTicks": 2,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -297118,9 +297118,9 @@
               "startTick": 3,
               "holdTicks": 14,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -297134,9 +297134,9 @@
               "startTick": 17,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -297150,9 +297150,9 @@
               "startTick": 23,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -298960,9 +298960,9 @@
               "startTick": 0,
               "holdTicks": 8,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -298976,9 +298976,9 @@
               "startTick": 8,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -298992,9 +298992,9 @@
               "startTick": 15,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -299008,9 +299008,9 @@
               "startTick": 22,
               "holdTicks": 14,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -299024,9 +299024,9 @@
               "startTick": 36,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -301239,9 +301239,9 @@
               "startTick": 0,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -301255,9 +301255,9 @@
               "startTick": 4,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -301271,9 +301271,9 @@
               "startTick": 8,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -301287,9 +301287,9 @@
               "startTick": 12,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -301303,9 +301303,9 @@
               "startTick": 16,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -301319,9 +301319,9 @@
               "startTick": 19,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -303129,9 +303129,9 @@
               "startTick": 0,
               "holdTicks": 1,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -303145,9 +303145,9 @@
               "startTick": 1,
               "holdTicks": 2,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -303161,9 +303161,9 @@
               "startTick": 3,
               "holdTicks": 14,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -303177,9 +303177,9 @@
               "startTick": 17,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -303193,9 +303193,9 @@
               "startTick": 23,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -305003,9 +305003,9 @@
               "startTick": 0,
               "holdTicks": 2,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -305019,9 +305019,9 @@
               "startTick": 2,
               "holdTicks": 2,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -305035,9 +305035,9 @@
               "startTick": 4,
               "holdTicks": 2,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -305051,9 +305051,9 @@
               "startTick": 6,
               "holdTicks": 14,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -305067,9 +305067,9 @@
               "startTick": 20,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -305083,9 +305083,9 @@
               "startTick": 25,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -306893,9 +306893,9 @@
               "startTick": 0,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -306909,9 +306909,9 @@
               "startTick": 4,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -306925,9 +306925,9 @@
               "startTick": 8,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -306941,9 +306941,9 @@
               "startTick": 12,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -306957,9 +306957,9 @@
               "startTick": 16,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -306973,9 +306973,9 @@
               "startTick": 19,
               "holdTicks": 12,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -306989,9 +306989,9 @@
               "startTick": 31,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -307005,9 +307005,9 @@
               "startTick": 37,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -307021,9 +307021,9 @@
               "startTick": 43,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -307037,9 +307037,9 @@
               "startTick": 49,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -307053,9 +307053,9 @@
               "startTick": 55,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -308863,9 +308863,9 @@
               "startTick": 0,
               "holdTicks": 8,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -308879,9 +308879,9 @@
               "startTick": 8,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -308895,9 +308895,9 @@
               "startTick": 15,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -308911,9 +308911,9 @@
               "startTick": 22,
               "holdTicks": 14,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -308927,9 +308927,9 @@
               "startTick": 36,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -311142,9 +311142,9 @@
               "startTick": 0,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -311158,9 +311158,9 @@
               "startTick": 5,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -311174,9 +311174,9 @@
               "startTick": 10,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -311190,9 +311190,9 @@
               "startTick": 15,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -311206,9 +311206,9 @@
               "startTick": 20,
               "holdTicks": 16,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -311222,9 +311222,9 @@
               "startTick": 36,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -311238,9 +311238,9 @@
               "startTick": 43,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313048,9 +313048,9 @@
               "startTick": 0,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313064,9 +313064,9 @@
               "startTick": 6,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313080,9 +313080,9 @@
               "startTick": 11,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313096,9 +313096,9 @@
               "startTick": 16,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313112,9 +313112,9 @@
               "startTick": 21,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313128,9 +313128,9 @@
               "startTick": 26,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313144,9 +313144,9 @@
               "startTick": 31,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313160,9 +313160,9 @@
               "startTick": 36,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313176,9 +313176,9 @@
               "startTick": 41,
               "holdTicks": 16,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313192,9 +313192,9 @@
               "startTick": 57,
               "holdTicks": 8,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313208,9 +313208,9 @@
               "startTick": 65,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313224,9 +313224,9 @@
               "startTick": 72,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -313240,9 +313240,9 @@
               "startTick": 79,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -315455,9 +315455,9 @@
               "startTick": 0,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -315471,9 +315471,9 @@
               "startTick": 5,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -315487,9 +315487,9 @@
               "startTick": 9,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -315503,9 +315503,9 @@
               "startTick": 13,
               "holdTicks": 12,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -315519,9 +315519,9 @@
               "startTick": 25,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -315535,9 +315535,9 @@
               "startTick": 29,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -317345,9 +317345,9 @@
               "startTick": 0,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -317361,9 +317361,9 @@
               "startTick": 5,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -317377,9 +317377,9 @@
               "startTick": 9,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -317393,9 +317393,9 @@
               "startTick": 13,
               "holdTicks": 12,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -317409,9 +317409,9 @@
               "startTick": 25,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -317425,9 +317425,9 @@
               "startTick": 29,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -319640,9 +319640,9 @@
               "startTick": 0,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -319656,9 +319656,9 @@
               "startTick": 3,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -319672,9 +319672,9 @@
               "startTick": 6,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -319688,9 +319688,9 @@
               "startTick": 9,
               "holdTicks": 14,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -319704,9 +319704,9 @@
               "startTick": 23,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -319720,9 +319720,9 @@
               "startTick": 28,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -319736,9 +319736,9 @@
               "startTick": 32,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -321546,9 +321546,9 @@
               "startTick": 0,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -321562,9 +321562,9 @@
               "startTick": 3,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -321578,9 +321578,9 @@
               "startTick": 6,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -321594,9 +321594,9 @@
               "startTick": 9,
               "holdTicks": 14,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -321610,9 +321610,9 @@
               "startTick": 23,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -321626,9 +321626,9 @@
               "startTick": 28,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -321642,9 +321642,9 @@
               "startTick": 32,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -323857,9 +323857,9 @@
               "startTick": 0,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -323873,9 +323873,9 @@
               "startTick": 4,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -323889,9 +323889,9 @@
               "startTick": 8,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -323905,9 +323905,9 @@
               "startTick": 12,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -323921,9 +323921,9 @@
               "startTick": 16,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -323937,9 +323937,9 @@
               "startTick": 19,
               "holdTicks": 3,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -325747,9 +325747,9 @@
               "startTick": 0,
               "holdTicks": 8,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -325763,9 +325763,9 @@
               "startTick": 8,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -325779,9 +325779,9 @@
               "startTick": 15,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -325795,9 +325795,9 @@
               "startTick": 22,
               "holdTicks": 14,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -325811,9 +325811,9 @@
               "startTick": 36,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -328026,9 +328026,9 @@
               "startTick": 0,
               "holdTicks": 8,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -328042,9 +328042,9 @@
               "startTick": 8,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -328058,9 +328058,9 @@
               "startTick": 15,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -328074,9 +328074,9 @@
               "startTick": 22,
               "holdTicks": 14,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -328090,9 +328090,9 @@
               "startTick": 36,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -330305,9 +330305,9 @@
               "startTick": 0,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -330321,9 +330321,9 @@
               "startTick": 5,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -330337,9 +330337,9 @@
               "startTick": 10,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -330353,9 +330353,9 @@
               "startTick": 15,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -330369,9 +330369,9 @@
               "startTick": 20,
               "holdTicks": 16,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -330385,9 +330385,9 @@
               "startTick": 36,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -330401,9 +330401,9 @@
               "startTick": 43,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -332211,9 +332211,9 @@
               "startTick": 0,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -332227,9 +332227,9 @@
               "startTick": 5,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -332243,9 +332243,9 @@
               "startTick": 10,
               "holdTicks": 4,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -332259,9 +332259,9 @@
               "startTick": 14,
               "holdTicks": 12,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -332275,9 +332275,9 @@
               "startTick": 26,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -332291,9 +332291,9 @@
               "startTick": 32,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -332307,9 +332307,9 @@
               "startTick": 37,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -332323,9 +332323,9 @@
               "startTick": 42,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -332339,9 +332339,9 @@
               "startTick": 47,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334149,9 +334149,9 @@
               "startTick": 0,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334165,9 +334165,9 @@
               "startTick": 6,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334181,9 +334181,9 @@
               "startTick": 11,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334197,9 +334197,9 @@
               "startTick": 16,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334213,9 +334213,9 @@
               "startTick": 21,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334229,9 +334229,9 @@
               "startTick": 26,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334245,9 +334245,9 @@
               "startTick": 31,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334261,9 +334261,9 @@
               "startTick": 36,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334277,9 +334277,9 @@
               "startTick": 41,
               "holdTicks": 16,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334293,9 +334293,9 @@
               "startTick": 57,
               "holdTicks": 8,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334309,9 +334309,9 @@
               "startTick": 65,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334325,9 +334325,9 @@
               "startTick": 72,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -334341,9 +334341,9 @@
               "startTick": 79,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336556,9 +336556,9 @@
               "startTick": 0,
               "holdTicks": 6,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336572,9 +336572,9 @@
               "startTick": 6,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336588,9 +336588,9 @@
               "startTick": 11,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336604,9 +336604,9 @@
               "startTick": 16,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336620,9 +336620,9 @@
               "startTick": 21,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336636,9 +336636,9 @@
               "startTick": 26,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336652,9 +336652,9 @@
               "startTick": 31,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336668,9 +336668,9 @@
               "startTick": 36,
               "holdTicks": 5,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336684,9 +336684,9 @@
               "startTick": 41,
               "holdTicks": 16,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336700,9 +336700,9 @@
               "startTick": 57,
               "holdTicks": 8,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336716,9 +336716,9 @@
               "startTick": 65,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336732,9 +336732,9 @@
               "startTick": 72,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -336748,9 +336748,9 @@
               "startTick": 79,
               "holdTicks": 7,
               "presentation": {
-                "pixelsPerUnit": 100.0,
+                "pixelsPerUnit": 65.0,
                 "sizeScale": 1.0,
-                "effectivePixelsPerUnit": 100.0,
+                "effectivePixelsPerUnit": 65.0,
                 "displayScale": 1.0
               },
               "asset": {
@@ -406694,5 +406694,5 @@
       ]
     }
   ],
-  "dataRevision": "3969aa8310200ce8903579cd100afa3058376edcb3d0e096705f267c7cc1bddd"
+  "dataRevision": "8982de0796ded666ac9cc2bbe508caae201f78e159d71bae1962a165e1258713"
 }
