@@ -5,11 +5,11 @@
   "sourceBranch": "main",
   "source": {
     "timelinePath": "ArtSource/FighterMotion/CombatAnimationTimeline_v2.json",
-    "timelineSha256": "63abfde17e53e10a79b41a459fb38553b0a5df63ce482f06c3b968a349a6177f",
+    "timelineSha256": "ba506b0b69367b0f42bcff84f9f52c5e4037e683ce56397ff4d8168e8b7e78a3",
     "authoringManifestPath": "ArtSource/FighterMotion/AnimationAuthoringManifest.json",
-    "authoringManifestSha256": "c3ca15944ec58b40ac6e00e8b4bcfe7d71fe0ef12b1d76c4cdde97de3781b82b",
+    "authoringManifestSha256": "312af4ff32bf375aea6e12a6c3d9bb8b92d3d46b845115c8675e468fcf7d2c51",
     "tuningPath": "ArtSource/FighterMotion/CombatBoxTuning.v1.json",
-    "tuningSha256": "c5b77df563c91a2214802f3d17b1512ca07f5e2f36c1e9d7ee68160f8b71186b"
+    "tuningSha256": "96b7b3fac81e78844a13253f1747ed64184e219432969bada01f6e4796f16732"
   },
   "limits": {
     "sizePercent": [
@@ -139968,7 +139968,8 @@
           "adjustment": {
             "boxKind": "Throw",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 12
           },
           "visualCels": [
             {
@@ -141862,7 +141863,7 @@
             "startupTrimTicks": 9,
             "activeStartTick": 12,
             "activeDurationTicks": 10,
-            "recoveryTrimTicks": 22
+            "recoveryTrimTicks": 31
           },
           "visualCels": [
             {
@@ -143740,7 +143741,7 @@
             "startupTrimTicks": 9,
             "activeStartTick": 14,
             "activeDurationTicks": 10,
-            "recoveryTrimTicks": 28
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -149842,7 +149843,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -154159,7 +154161,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -156049,7 +156052,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -162561,7 +162565,8 @@
           "adjustment": {
             "boxKind": "Throw",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 12
           },
           "visualCels": [
             {
@@ -164453,7 +164458,8 @@
             "widthPercent": 100,
             "heightPercent": 100,
             "activeStartTick": 16,
-            "activeDurationTicks": 9
+            "activeDurationTicks": 9,
+            "recoveryTrimTicks": 39
           },
           "visualCels": [
             {
@@ -166719,7 +166725,8 @@
             "widthPercent": 100,
             "heightPercent": 100,
             "activeStartTick": 16,
-            "activeDurationTicks": 9
+            "activeDurationTicks": 9,
+            "recoveryTrimTicks": 39
           },
           "visualCels": [
             {
@@ -168983,7 +168990,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -170889,7 +170897,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -172827,7 +172836,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 4
           },
           "visualCels": [
             {
@@ -175234,7 +175244,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 23
           },
           "visualCels": [
             {
@@ -181601,7 +181612,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 6
           },
           "visualCels": [
             {
@@ -186513,7 +186525,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 13
           },
           "visualCels": [
             {
@@ -201635,7 +201648,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 21
           },
           "visualCels": [
             {
@@ -217191,7 +217205,8 @@
           "adjustment": {
             "boxKind": "Throw",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 12
           },
           "visualCels": [
             {
@@ -219081,7 +219096,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -220955,7 +220971,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -224815,7 +224832,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 14
           },
           "visualCels": [
             {
@@ -227174,7 +227192,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 3
           },
           "visualCels": [
             {
@@ -231503,7 +231522,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -233393,7 +233413,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -239905,7 +239926,8 @@
           "adjustment": {
             "boxKind": "Throw",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 12
           },
           "visualCels": [
             {
@@ -241795,7 +241817,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -244138,7 +244161,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -246481,7 +246505,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 3
           },
           "visualCels": [
             {
@@ -248403,7 +248428,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 5
           },
           "visualCels": [
             {
@@ -259331,7 +259357,8 @@
           "adjustment": {
             "boxKind": "Throw",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 12
           },
           "visualCels": [
             {
@@ -261221,7 +261248,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -263095,7 +263123,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -266955,7 +266984,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -269234,7 +269264,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 8
           },
           "visualCels": [
             {
@@ -273547,7 +273578,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -275437,7 +275469,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -281949,7 +281982,8 @@
           "adjustment": {
             "boxKind": "Throw",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 12
           },
           "visualCels": [
             {
@@ -283839,7 +283873,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -286118,7 +286153,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -288397,7 +288433,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 8
           },
           "visualCels": [
             {
@@ -301231,7 +301268,8 @@
           "adjustment": {
             "boxKind": "Throw",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 12
           },
           "visualCels": [
             {
@@ -303121,7 +303159,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -304995,7 +305034,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -308855,7 +308895,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -311134,7 +311175,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 8
           },
           "visualCels": [
             {
@@ -315447,7 +315489,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -317337,7 +317380,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -323849,7 +323893,8 @@
           "adjustment": {
             "boxKind": "Throw",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 12
           },
           "visualCels": [
             {
@@ -325739,7 +325784,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -328018,7 +328064,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -330297,7 +330344,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 8
           },
           "visualCels": [
             {
@@ -332203,7 +332251,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 6
           },
           "visualCels": [
             {
@@ -343131,7 +343180,8 @@
           "adjustment": {
             "boxKind": "Throw",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 12
           },
           "visualCels": [
             {
@@ -345021,7 +345071,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -346895,7 +346946,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -350755,7 +350807,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -353034,7 +353087,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 8
           },
           "visualCels": [
             {
@@ -357347,7 +357401,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 18
           },
           "visualCels": [
             {
@@ -359237,7 +359292,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -365749,7 +365805,8 @@
           "adjustment": {
             "boxKind": "Throw",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 12
           },
           "visualCels": [
             {
@@ -367639,7 +367696,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -369918,7 +369976,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 29
           },
           "visualCels": [
             {
@@ -372197,7 +372256,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 8
           },
           "visualCels": [
             {
@@ -374103,7 +374163,8 @@
           "adjustment": {
             "boxKind": "Hit",
             "widthPercent": 100,
-            "heightPercent": 100
+            "heightPercent": 100,
+            "recoveryTrimTicks": 6
           },
           "visualCels": [
             {
@@ -406694,5 +406755,5 @@
       ]
     }
   ],
-  "dataRevision": "8982de0796ded666ac9cc2bbe508caae201f78e159d71bae1962a165e1258713"
+  "dataRevision": "503bb79c9826d052dec23a165378f30d26f213e26b65f33ac068b3c8caa9aaeb"
 }
